@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ProyPruebas</string>
+    <string name="texto">Hola Kotlin!</string>
 </resources>
